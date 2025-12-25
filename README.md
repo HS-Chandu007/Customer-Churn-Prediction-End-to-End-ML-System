@@ -1,4 +1,7 @@
 # Customer-Churn-Prediction-End-to-End-ML-System
+
+🚀 Live Demo: https://huggingface.co/spaces/ChanduHs/Customer_Churn_Prediction_End_to_End_ML_System
+
 This project is an end-to-end customer churn prediction system built using real-world business data. The goal is to identify customers who are likely to leave so that proactive retention strategies can be applied.
 
 The work goes beyond model training and focuses on the full ML lifecycle — from problem framing and feature engineering to deployment and explainability.
