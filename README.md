@@ -29,7 +29,9 @@ Adapted to real-world constraints by deploying on Hugging Face Spaces instead of
 
 This project demonstrates practical decision-making, handling of real-world data challenges, and the ability to ship a usable ML system — not just train a model.
 
-![Uploading Screenshot 2025-12-25 145229.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88fd9354-3a81-4fac-ad47-213a36b49367" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-12-25 145216" src="https://github.com/user-attachments/assets/cf75c814-961f-4118-ac2f-477b3646e2aa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/962a15d8-0af0-4ced-b151-2ac2073d1e86" />
+
+
 
